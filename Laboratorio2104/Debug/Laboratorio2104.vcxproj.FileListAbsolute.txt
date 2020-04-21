@@ -1,0 +1,2 @@
+C:\Ciencias de la Computacion\VisualStudio\Laboratorio2104\Laboratorio2104\Debug\Laboratorio2104.exe
+C:\Ciencias de la Computacion\VisualStudio\Laboratorio2104\Laboratorio2104\Debug\Laboratorio2104.pdb
